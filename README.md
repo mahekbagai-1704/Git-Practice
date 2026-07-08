@@ -8,4 +8,4 @@ This is my first repository
 -git commit
 
 # Branch 
-I'm working in a feature-readme Brunch
+I'm working in a feature-readme Branch 
