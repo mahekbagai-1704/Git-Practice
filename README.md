@@ -1,5 +1,5 @@
  # Git-Practice
-This is my first repository
+This repository is used to learn Git and GitHub.
 
 # Commands Learned
 -git init 
