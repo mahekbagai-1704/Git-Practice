@@ -1,5 +1,5 @@
  # Git-Practice
-This is my first repository
+This is my Git practice repository.
 
 # Commands Learned
 -git init 
