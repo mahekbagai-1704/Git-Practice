@@ -16,7 +16,7 @@ This repository contains my hands-on practice while learning **Git** and **GitHu
 - Editing Files on GitHub
 - Push & Pull
 
-## 🛠 Commands Practiced
+## 🛠 Common Git Commands
 
 ```bash
 git init
@@ -34,9 +34,49 @@ git pull
 git clone
 ```
 
+## 🔄 Basic Git Workflow
+
+```text
+Create Repository
+        ↓
+git init
+        ↓
+git status
+        ↓
+git add .
+        ↓
+git commit -m "message"
+        ↓
+git branch
+        ↓
+git switch <branch-name>
+        ↓
+git merge <branch-name>
+        ↓
+git push origin main
+```
+
 ## 🌿 Branch Practice
 
 Created and worked on a feature branch to understand Git branching and merging.
+
+## 📚 What I Learned
+
+- Version control using Git
+- Creating and managing repositories
+- Working with branches
+- Merging branches
+- Connecting local and remote repositories
+- Resolving simple merge conflicts
+- Using GitHub for collaboration
+
+
+## 📌 Repository Status
+
+✅ Git fundamentals completed.
+
+This repository serves as a reference for my Git and GitHub learning journey.
+
 
 ## 🎯 Purpose
 
